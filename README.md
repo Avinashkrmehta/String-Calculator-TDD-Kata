@@ -40,4 +40,4 @@ The code is organized into two files:
 `spec/string_calculator_spec.rb`: Defines tests for the StringCalculator class using your testing framework.
 ### Error Handling:
 
-The`NegativesNotAllowed` class is defined within the StringCalculator class and raised when negative numbers are encountered. It provides a message with a list of the negative numbers found.
+The`NegativesNotAllowed` when negative numbers are encountered. It provides a message with a list of the negative numbers found.
