@@ -16,3 +16,7 @@ class StringCalculator
     num_list.sum
   end
 end
+
+
+string_calculator = StringCalculator.new
+string_calculator.add("-1,-3,-5")
